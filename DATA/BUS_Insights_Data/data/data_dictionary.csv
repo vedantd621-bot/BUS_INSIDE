@@ -1,0 +1,13 @@
+File,Column,Description
+customers.csv,Customer_ID,Unique customer identifier
+customers.csv,Customer_Segment,Customer business segment
+products.csv,Product_ID,Unique product identifier
+products.csv,Category,Main product category
+orders.csv,Order_ID,Unique order identifier
+orders.csv,Sales,Net sales after discount
+orders.csv,Profit,Sales minus estimated cost
+orders.csv,Profit_Margin,Profit divided by sales
+orders.csv,Order_Status,"Delivered, Cancelled or Returned"
+payments.csv,Payment_Status,Payment success/failure
+monthly_targets.csv,Sales_Target,Monthly management sales target
+monthly_targets.csv,Profit_Target,Monthly management profit target

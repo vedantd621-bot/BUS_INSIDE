@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price,Brand
+PROD1001,Skin Care Product 1,Beauty,Skin Care,1204.37,Apex
+PROD1002,Fragrance Product 2,Beauty,Fragrance,18128.46,UrbanX
+PROD1003,Smartphones Product 3,Electronics,Smartphones,39057.46,Apex
+PROD1004,Women Fashion Product 4,Fashion,Women Fashion,11883.15,Apex
+PROD1005,Fragrance Product 5,Beauty,Fragrance,15376.48,Vertex
+PROD1006,Women Fashion Product 6,Fashion,Women Fashion,24371.14,Nova
+PROD1007,Decor Product 7,Home & Kitchen,Decor,69269.21,Apex
+PROD1008,Men Fashion Product 8,Fashion,Men Fashion,51232.64,Apex
+PROD1009,Men Fashion Product 9,Fashion,Men Fashion,435.7,Nova
+PROD1010,Hair Care Product 10,Beauty,Hair Care,10168.66,Prime
+PROD1011,Men Fashion Product 11,Fashion,Men Fashion,59735.24,Apex
+PROD1012,Outdoor Product 12,Sports,Outdoor,62855.74,Apex
+PROD1013,Cricket Product 13,Sports,Cricket,36978.15,Prime
+PROD1014,Outdoor Product 14,Sports,Outdoor,61539.64,Vertex
+PROD1015,Laptops Product 15,Electronics,Laptops,9023.82,Apex
+PROD1016,Outdoor Product 16,Sports,Outdoor,5588.14,UrbanX
+PROD1017,Cookware Product 17,Home & Kitchen,Cookware,10372.77,Prime
+PROD1018,Decor Product 18,Home & Kitchen,Decor,24911.1,Nova
+PROD1019,Appliances Product 19,Home & Kitchen,Appliances,48186.24,Apex
+PROD1020,Cookware Product 20,Home & Kitchen,Cookware,648.89,Apex
+PROD1021,Footwear Product 21,Fashion,Footwear,6734.45,Apex
+PROD1022,Outdoor Product 22,Sports,Outdoor,4126.53,Nova
+PROD1023,Decor Product 23,Home & Kitchen,Decor,37923.5,UrbanX
+PROD1024,Decor Product 24,Home & Kitchen,Decor,13947.47,Prime
+PROD1025,Cricket Product 25,Sports,Cricket,33340.22,UrbanX
+PROD1026,Cookware Product 26,Home & Kitchen,Cookware,43917.02,Prime
+PROD1027,Decor Product 27,Home & Kitchen,Decor,63093.34,Apex
+PROD1028,Decor Product 28,Home & Kitchen,Decor,50612.26,Vertex
+PROD1029,Laptops Product 29,Electronics,Laptops,3094.63,Nova
+PROD1030,Hair Care Product 30,Beauty,Hair Care,20476.25,Vertex
+PROD1031,Footwear Product 31,Fashion,Footwear,31229.82,UrbanX
+PROD1032,Decor Product 32,Home & Kitchen,Decor,33067.12,Prime
+PROD1033,Men Fashion Product 33,Fashion,Men Fashion,7384.21,Apex
+PROD1034,Appliances Product 34,Home & Kitchen,Appliances,28724.24,UrbanX
+PROD1035,Monitors Product 35,Electronics,Monitors,23679.7,Nova
+PROD1036,Cookware Product 36,Home & Kitchen,Cookware,56205.32,Nova
+PROD1037,Outdoor Product 37,Sports,Outdoor,13557.9,Prime
+PROD1038,Footwear Product 38,Fashion,Footwear,9466.65,UrbanX
+PROD1039,Decor Product 39,Home & Kitchen,Decor,26426.3,Apex
+PROD1040,Men Fashion Product 40,Fashion,Men Fashion,28379.26,UrbanX
+PROD1041,Laptops Product 41,Electronics,Laptops,64856.71,Prime
+PROD1042,Cookware Product 42,Home & Kitchen,Cookware,44890.61,Apex
+PROD1043,Outdoor Product 43,Sports,Outdoor,34140.2,Prime
+PROD1044,Women Fashion Product 44,Fashion,Women Fashion,32986.88,UrbanX
+PROD1045,Cricket Product 45,Sports,Cricket,25967.12,Vertex
+PROD1046,Smartphones Product 46,Electronics,Smartphones,36342.81,Nova
+PROD1047,Men Fashion Product 47,Fashion,Men Fashion,53513.83,UrbanX
+PROD1048,Appliances Product 48,Home & Kitchen,Appliances,41239.37,UrbanX
+PROD1049,Cricket Product 49,Sports,Cricket,57516.25,UrbanX
+PROD1050,Cookware Product 50,Home & Kitchen,Cookware,57524.94,UrbanX
+PROD1051,Women Fashion Product 51,Fashion,Women Fashion,35014.22,Vertex
+PROD1052,Laptops Product 52,Electronics,Laptops,42711.45,Vertex
+PROD1053,Cricket Product 53,Sports,Cricket,316.93,Nova
+PROD1054,Decor Product 54,Home & Kitchen,Decor,40889.53,Apex
+PROD1055,Audio Product 55,Electronics,Audio,27854.13,Vertex
+PROD1056,Footwear Product 56,Fashion,Footwear,58861.48,Apex
+PROD1057,Hair Care Product 57,Beauty,Hair Care,16082.34,Vertex
+PROD1058,Fragrance Product 58,Beauty,Fragrance,38415.34,Prime
+PROD1059,Fragrance Product 59,Beauty,Fragrance,948.65,Vertex
+PROD1060,Decor Product 60,Home & Kitchen,Decor,29320.76,Vertex
+PROD1061,Decor Product 61,Home & Kitchen,Decor,37568.41,Apex
+PROD1062,Appliances Product 62,Home & Kitchen,Appliances,46889.46,Nova
+PROD1063,Women Fashion Product 63,Fashion,Women Fashion,66195.22,Apex
+PROD1064,Cricket Product 64,Sports,Cricket,49830.12,Nova
+PROD1065,Appliances Product 65,Home & Kitchen,Appliances,9682.65,Nova
+PROD1066,Outdoor Product 66,Sports,Outdoor,47760.86,Vertex
+PROD1067,Appliances Product 67,Home & Kitchen,Appliances,46604.81,Nova
+PROD1068,Fitness Product 68,Sports,Fitness,21213.11,UrbanX
+PROD1069,Cricket Product 69,Sports,Cricket,24317.75,UrbanX
+PROD1070,Monitors Product 70,Electronics,Monitors,53262.48,Apex
+PROD1071,Smartphones Product 71,Electronics,Smartphones,15327.42,Prime
+PROD1072,Cricket Product 72,Sports,Cricket,28404.05,Vertex
+PROD1073,Skin Care Product 73,Beauty,Skin Care,64624.69,Nova
+PROD1074,Audio Product 74,Electronics,Audio,61332.08,Nova
+PROD1075,Decor Product 75,Home & Kitchen,Decor,1110.52,Apex
+PROD1076,Cookware Product 76,Home & Kitchen,Cookware,46326.1,UrbanX
+PROD1077,Fragrance Product 77,Beauty,Fragrance,31812.25,Prime
+PROD1078,Audio Product 78,Electronics,Audio,8632.71,Apex
+PROD1079,Fragrance Product 79,Beauty,Fragrance,1885.14,UrbanX
+PROD1080,Fitness Product 80,Sports,Fitness,44108.29,Vertex
+PROD1081,Footwear Product 81,Fashion,Footwear,64541.5,Vertex
+PROD1082,Hair Care Product 82,Beauty,Hair Care,19496.06,Prime
+PROD1083,Fragrance Product 83,Beauty,Fragrance,57851.73,Vertex
+PROD1084,Audio Product 84,Electronics,Audio,60715.32,Prime
+PROD1085,Monitors Product 85,Electronics,Monitors,52374.58,UrbanX
+PROD1086,Footwear Product 86,Fashion,Footwear,30961.4,Nova
+PROD1087,Cricket Product 87,Sports,Cricket,38740.84,UrbanX
+PROD1088,Women Fashion Product 88,Fashion,Women Fashion,57568.92,UrbanX
+PROD1089,Decor Product 89,Home & Kitchen,Decor,50781.97,Vertex
+PROD1090,Laptops Product 90,Electronics,Laptops,55518.21,Prime
+PROD1091,Audio Product 91,Electronics,Audio,31371.36,Prime
+PROD1092,Outdoor Product 92,Sports,Outdoor,59538.92,Apex
+PROD1093,Skin Care Product 93,Beauty,Skin Care,8341.86,Apex
+PROD1094,Monitors Product 94,Electronics,Monitors,8418.55,UrbanX
+PROD1095,Women Fashion Product 95,Fashion,Women Fashion,65052.48,Prime
+PROD1096,Decor Product 96,Home & Kitchen,Decor,36066.15,Apex
+PROD1097,Decor Product 97,Home & Kitchen,Decor,47106.23,UrbanX
+PROD1098,Fitness Product 98,Sports,Fitness,35884.25,Apex
+PROD1099,Appliances Product 99,Home & Kitchen,Appliances,52996.82,Apex
+PROD1100,Footwear Product 100,Fashion,Footwear,35411.68,Nova
+PROD1101,Outdoor Product 101,Sports,Outdoor,38804.45,Nova
+PROD1102,Laptops Product 102,Electronics,Laptops,9671.16,Vertex
+PROD1103,Laptops Product 103,Electronics,Laptops,25865.74,Nova
+PROD1104,Smartphones Product 104,Electronics,Smartphones,64958.36,UrbanX
+PROD1105,Hair Care Product 105,Beauty,Hair Care,24460.96,Nova
+PROD1106,Hair Care Product 106,Beauty,Hair Care,20813.0,Prime
+PROD1107,Outdoor Product 107,Sports,Outdoor,2880.87,UrbanX
+PROD1108,Cookware Product 108,Home & Kitchen,Cookware,33617.86,Vertex
+PROD1109,Cricket Product 109,Sports,Cricket,62186.58,UrbanX
+PROD1110,Laptops Product 110,Electronics,Laptops,38982.26,Nova
+PROD1111,Laptops Product 111,Electronics,Laptops,44076.65,UrbanX
+PROD1112,Footwear Product 112,Fashion,Footwear,63383.2,Nova
+PROD1113,Laptops Product 113,Electronics,Laptops,23068.82,UrbanX
+PROD1114,Footwear Product 114,Fashion,Footwear,20640.86,Prime
+PROD1115,Skin Care Product 115,Beauty,Skin Care,29878.14,Apex
+PROD1116,Appliances Product 116,Home & Kitchen,Appliances,54973.42,UrbanX
+PROD1117,Appliances Product 117,Home & Kitchen,Appliances,59003.52,Nova
+PROD1118,Outdoor Product 118,Sports,Outdoor,59388.28,Vertex
+PROD1119,Cookware Product 119,Home & Kitchen,Cookware,58734.41,Apex
+PROD1120,Hair Care Product 120,Beauty,Hair Care,48220.81,Vertex
+PROD1121,Footwear Product 121,Fashion,Footwear,30801.44,Prime
+PROD1122,Fitness Product 122,Sports,Fitness,29682.91,Apex
+PROD1123,Footwear Product 123,Fashion,Footwear,66089.97,Nova
+PROD1124,Cricket Product 124,Sports,Cricket,28750.56,Vertex
+PROD1125,Footwear Product 125,Fashion,Footwear,56698.15,Nova
+PROD1126,Laptops Product 126,Electronics,Laptops,1029.03,UrbanX
+PROD1127,Fitness Product 127,Sports,Fitness,47539.93,Nova
+PROD1128,Footwear Product 128,Fashion,Footwear,53356.21,UrbanX
+PROD1129,Audio Product 129,Electronics,Audio,42717.95,Vertex
+PROD1130,Appliances Product 130,Home & Kitchen,Appliances,22765.22,Nova
+PROD1131,Decor Product 131,Home & Kitchen,Decor,34661.83,Nova
+PROD1132,Monitors Product 132,Electronics,Monitors,50617.04,Nova
+PROD1133,Cookware Product 133,Home & Kitchen,Cookware,4679.15,Nova
+PROD1134,Footwear Product 134,Fashion,Footwear,18820.47,Nova
+PROD1135,Hair Care Product 135,Beauty,Hair Care,51285.16,Nova
+PROD1136,Fitness Product 136,Sports,Fitness,32460.29,UrbanX
+PROD1137,Cookware Product 137,Home & Kitchen,Cookware,36731.09,Nova
+PROD1138,Audio Product 138,Electronics,Audio,41623.42,Vertex
+PROD1139,Skin Care Product 139,Beauty,Skin Care,64087.94,Nova
+PROD1140,Monitors Product 140,Electronics,Monitors,52072.25,UrbanX
+PROD1141,Footwear Product 141,Fashion,Footwear,27586.94,Prime
+PROD1142,Fragrance Product 142,Beauty,Fragrance,22737.84,Nova
+PROD1143,Skin Care Product 143,Beauty,Skin Care,62566.26,Vertex
+PROD1144,Fitness Product 144,Sports,Fitness,37889.46,Nova
+PROD1145,Footwear Product 145,Fashion,Footwear,3140.42,UrbanX
+PROD1146,Laptops Product 146,Electronics,Laptops,3230.92,Prime
+PROD1147,Fitness Product 147,Sports,Fitness,36615.65,Vertex
+PROD1148,Cookware Product 148,Home & Kitchen,Cookware,6888.38,Vertex
+PROD1149,Cricket Product 149,Sports,Cricket,68765.63,Vertex
+PROD1150,Fitness Product 150,Sports,Fitness,69804.87,Prime
